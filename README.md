@@ -1,4 +1,4 @@
-# CVLab 🧠📄
+# Resume Builder ATS Checker 🧠📄
 
 **CVLab** is a full-stack web application that helps users generate professional, ATS-optimized resumes. It combines a LaTeX-powered resume builder with AI-driven ATS score analysis using Google's Gemini API.
 
